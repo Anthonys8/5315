@@ -5,15 +5,29 @@
   </head>
   <body>
     <div class="container">
-      <h1>Joe Cool - IS 5315 Sec. #</h1>
-      <h2>What is Docker</h2>
-      <p>Your answer here. - list all sources you used.</p>
-      <h2>What is Nginx</h2>
-      <p>Your answer here. - list all sources you used.</p>
-      <h2>What is VM (virtual machine)</h2>
-      <p>Your answer here. - list all sources you used.</p>
-      <h2>Who is Cloud Computing Service Provider - Digitalocean</h2>
-      <p>Your answer here. - list all sources you used.</p>
+      <h1>Anthony Suryajaya - IS 5315 Sec. #2</h1>
+      <h2>What is GIT? Why do we need source code Version Control System?</h2>
+        <p>
+          GIT is now the most use Version Control System. It is different from other version control system because GIT is a <i>Distributed</i> Version Control System in which instead of keeping all the code copy in a central server, it has remote repository that is stored in a server and local repository that is kept in each developer's computer.<br />
+          This is needed because while doing a project, there will be some adjustment, testing, and updates that change time-to-time. So, if there is some errors after making adjustment to the code or if the updates is no longer needed, developers can go back to the older version of the code. It also allows multiple developers to be working at the same time by making a copy of the files (known as branching), modifying the copied files, and then merging the modified files back to the master branch; hence why GIT is called a <i>distributed</i> version control system.<br /><br />
+          Source: https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61
+        </p>
+      <h2>Describe following terms: 1) local repo 2) remote repo 3) how to use GIT in Team Project – multiple developers work on the same project at the same time</h2>
+        <p>
+        1) Local repository<br />
+        It is the repository that exists locally in one's machine. It has all the codes and changes history (pulled from the remote repository), and it allow developers to work while offline. However, we must ensure that the local repository is updated with the remote repository by using the "git pull" command from time to time.
+        </p>
+        <p>
+        2) Remote repository<br />
+        It is the central server which is shared among the developers. It allows developers to work with the same project/files simultaneously by keeping their local repository updated with the latest changes other developers pushed to the remote repository, and also by updating the remote repository with their changes/branches for other developers to see.
+        </p>
+        <p>
+        3) How to use GIT in Team Project<br />
+        Multiple developers can work on the same project at the same time by working on different branches (the most frequently and normally used method), or if they prefer to work on the same branch for some reason, ensuring that they keep their local repository updated from time to time by using the "git pull" command, and also ensuring that they keep the remote repository updated with their changes by using the "git commit" and "git push" commands. A developer can branch off of "master" by using the "git checkout -b {branch name}", then pushing the branch to the remote repository with "git push origin {branch name}". The developer then could make changes to this branch, and after all of their changes are done, he could make a pull request (which usually will be reviewed by other developers), make necessary changes after review if required, resolve merge conflicts if conflicts are present, then finally merge their branch to master, which will ensure the master branch gets updated with the changes made by the developer. Having multiple, independent branches per developer is ideal for team project since we don't have to pull/push changes often mainly because we don't have to worry about merge conflicts (which happen if a developer makes changes to the same file and around the same lines at the same time), at least not until after we need to merge our changes to master.
+        </p>
+        <br />
+        Source: https://www.intertech.com/Blog/introduction-to-git-concepts/
+        </p>
     </div>
   </body>
 </html>
