@@ -1,124 +1,95 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
-    },
+      "product_name": "Spectre x360 13inch",
+      "brand": "Hewlett Packard",
+      "product_category": "Laptop",
+      "price": "$1,499"
+    } 
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
-    },
+      "product_name": "NU6900 2160p Smart 4k UHD TV 50inch",
+      "brand": "Samsung",
+      "product_category": "TV",
+      "price": "$329"
+    } 
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
-    },
+      "product_name": "XPS 13inch",
+      "brand": "Dell",
+      "product_category": "Laptop",
+      "price": "$1,699"
+    } 
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
-    },
+      "product_name": "Note 9",
+      "brand": "Samsung",
+      "product_category": "Cell Phone",
+      "price": "$899"
+    } 
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
-    },
+      "product_name": "Switch",
+      "brand": "Nintendo",
+      "product_category": "Video Games",
+      "price": "$299"
+    } 
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
-    },
+      "product_name": "Macbook Pro 13inch",
+      "brand": "Apple",
+      "product_category": "Laptop",
+      "price": "$1,399"
+    } 
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
-    },
+      "product_name": "UK6190 2160p Smart 4k UHD TV 70inch",
+      "brand": "LG",
+      "product_category": "TV",
+      "price": "$749"
+    } 
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
-    },
+      "product_name": "VivoBook 14inch",
+      "brand": "Asus",
+      "product_category": "Laptop",
+      "price": "$459"
+    } 
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
-    },
+      "product_name": "iPhone XS 64GB",
+      "brand": "Apple",
+      "product_category": "Cell Phone",
+      "price": "$999"
+    } 
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
-    },
+      "product_name": "H8E Series 2160p 4k UHD TV 65inch",
+      "brand": "Hisense",
+      "product_category": "TV",
+      "price": "$549"
+    } 
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
-    },
+      "product_name": "Xperia 10 Plus",
+      "brand": "Sony",
+      "product_category": "Cell Phone",
+      "price": "$329"
+    } 
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
-    },
+      "product_name": "Inspiron 2-in-1 13inch",
+      "brand": "Dell",
+      "product_category": "Laptop",
+      "price": "$1,199"
+    } 
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
-    },
+      "product_name": "PlayStation 4 1TB",
+      "brand": "Sony",
+      "product_category": "Video Games",
+      "price": "$299"
+    } 
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
+      "product_name": "Envy x360 2-in-1 13inch",
+      "brand": "Hewlett Packard",
+      "product_category": "Laptop",
+      "price": "$849"
+    } 
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
-    }
+      "product_name": "Xbox One X 1TB",
+      "brand": "Microsoft",
+      "product_category": "Video Games",
+      "price": "$399"
+    } 
+    
   ]
 }
